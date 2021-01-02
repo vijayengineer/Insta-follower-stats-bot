@@ -10,7 +10,7 @@ This project implements a bot which given an Instagram channel name as input, ex
 This information is stored as a csv data in {date}_instaChannel.csv. Using this csv data further data analysis can be made for example number of real followers, potential bots or fake followers etc.
 If you use code please cite it or star the repo! 
 
-Following is a demo for a random follower in natgeo channel:
+Following is a demo for natgeo channel:
 
 ![](https://github.com/vijayengineer/Insta-follower-stats-bot/blob/main/assets/cropped_insta1.gif)
 
