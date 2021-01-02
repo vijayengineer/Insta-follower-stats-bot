@@ -14,4 +14,5 @@ Following is a demo for a random follower in natgeo channel:
 
 ![](https://github.com/vijayengineer/Insta-follower-stats-bot/blob/main/assets/cropped_insta1.gif)
 
+![](https://github.com/vijayengineer/Insta-follower-stats-bot/blob/main/assets/Screenshot%202021-01-02%20at%2020.39.23.png)
 
